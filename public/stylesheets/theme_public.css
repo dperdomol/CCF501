@@ -1,0 +1,10 @@
+.navbar-brand > img{
+    max-width: 200px;
+}
+
+.home-hero .home-image-wrapper{
+    height: 100vh;
+    background-image: url("../images/home-header.jpg");
+    background-clip: content-box;
+    background-size: contain;
+}
